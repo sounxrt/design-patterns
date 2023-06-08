@@ -17,7 +17,7 @@ Design patterns that ease the design by identifying a simple way to realize rela
 
 ## Reference
 
-Design Patterns Explained with Java and UML2
-https://refactoring.guru/design-patterns/
-https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns
-https://en.wikipedia.org/
+- Design Patterns Explained with Java and UML2
+- https://refactoring.guru/design-patterns/
+- https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns
+- [Wikipedia](https://en.wikipedia.org/)
