@@ -9,18 +9,18 @@ Behavioral patterns are patterns that focuses on the interactions between cooper
 
 The loose coupling is the key to n-tier architectures. 
 
-| Name                    | Description                                                                                                                                                                                             |
-|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Chain of Responsability | The Chain-of-responsibility pattern lets more than one object handle a request without mutual knowledge.                                                                                                |
-| Command                 | The Command pattern is used to create objects that represents actions and events in an application.                                                                                                     |
-| Iterator                | The Iterator design pattern provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.                                                   |
-| Mediator                | Objects no longer communicate directly with each other, but instead communicate through the mediator.                                                                                                   |
-| Memento                 | To record an object internal state without violating encapsulation and reclaim it later without knowledge of the original object.                                                                       |
-| Observer                | An observer is a structural pattern that enables publish/subscribe functionality.                                                                                                                       |
-| State                   | The State pattern allows an object to alter its behavior when its internal state changes.                                                                                                               |
-| Strategy                | Use strategy when you need to define a family of algorithms, encapsulate each one, and make them interchangeable.                                                                                       |
-| Template Method         | Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure. |
-| Visitor                 | Visitor is a behavioral design pattern that lets you separate algorithms from the objects on which they operate.                                                                                        |
+| Name                      | Description                                                                                                                                                                                             |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chain of Responsability   | The Chain-of-responsibility pattern lets more than one object handle a request without mutual knowledge.                                                                                                |
+| Command                   | The Command pattern is used to create objects that represents actions and events in an application.                                                                                                     |
+| Iterator                  | The Iterator design pattern provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.                                                   |
+| Mediator                  | Objects no longer communicate directly with each other, but instead communicate through the mediator.                                                                                                   |
+| Memento                   | To record an object internal state without violating encapsulation and reclaim it later without knowledge of the original object.                                                                       |
+| Observer                  | An observer is a structural pattern that enables publish/subscribe functionality.                                                                                                                       |
+| State                     | The State pattern allows an object to alter its behavior when its internal state changes.                                                                                                               |
+| Strategy                  | Use strategy when you need to define a family of algorithms, encapsulate each one, and make them interchangeable.                                                                                       |
+| Template Method           | Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure. |
+| [Visitor](/md/visitor.md) | Visitor is a behavioral design pattern that lets you separate algorithms from the objects on which they operate.                                                                                        |
 
 ## Creational Design Patterns
 
