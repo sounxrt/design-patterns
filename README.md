@@ -40,15 +40,15 @@ The basic form of object creation could result in design problemsor added comple
 
 Design patterns that ease the design by identifying a simple way to realize relationships among entities (objects and classes). 
 
-| Name                      | Description                                                                                                                                         |
-|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Adapter](/md/adapter.md) | Translates the interface of one class into another interface.                                                                                       |
-| [Bridge](/md/bridge.md)   | Used to decouple the interfaces from implementation and hiding the implementation details from the client program.                                  |
-| Composite                 | Helps you to create treee structures of objects without the need to force clients to differentialte between brances and leaves regarding usage.     |
-| Decorator                 | Lets you attach additional responsibilities and modify an instance functionality dynamically.                                                       |
-| Facade                    | Provides a unified interface to a set of interfaces in a subsystem.                                                                                 |
-| Flyweight                 | Provides a mechanism by which you can avoid creating a large number of expensive objects and instead reuse existing instance to represent new ones. |
-| Proxy                     | Provide a surrogate or placeholder for another object to control access to it.                                                                      |
+| Name                          | Description                                                                                                                                         |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Adapter](/md/adapter.md)     | Translates the interface of one class into another interface.                                                                                       |
+| [Bridge](/md/bridge.md)       | Used to decouple the interfaces from implementation and hiding the implementation details from the client program.                                  |
+| [Composite](/md/composite.md) | Helps you to create treee structures of objects without the need to force clients to differentialte between brances and leaves regarding usage.     |
+| [Decorator](/md/decorator.md) | Lets you attach additional responsibilities and modify an instance functionality dynamically.                                                       |
+| [Facade](/md/facade.md)       | Provides a unified interface to a set of interfaces in a subsystem.                                                                                 |
+| [Flyweight](/md/flyweight.md)    | Provides a mechanism by which you can avoid creating a large number of expensive objects and instead reuse existing instance to represent new ones. |
+| [Proxy](/md/proxy.md)                         | Provide a surrogate or placeholder for another object to control access to it.                                                                      |
 
 ## Reference
 

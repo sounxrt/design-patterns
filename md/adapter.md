@@ -1,3 +1,3 @@
 ## Diagram
 
-![Test](/img/adapter.jpg)
+![Adapter Pattern Diagram](/img/adapter.jpg)
