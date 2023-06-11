@@ -11,11 +11,11 @@ By passing the command object as a parameter we can, anywhereneeded extract info
 ## When to use?
 
 - When you want a action that can be represented in many ways. 
-- To create custom action like functionaly.
+- 
 
 ## Benefits
 
--  A class is a suitable place to collect code and data related to a specific action or event.
+-  Single Responsibility Principle. You can decouple classes that invoke operations from classes that perform these operations.
 
 ## Drawbacks
 

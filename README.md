@@ -3,7 +3,7 @@
 
 ## Behavioral Design Patterns
 
-Design patterns that identify common communication patterns between objects and realize these patterns. 
+Design patterns that identify common **communication** patterns between objects and realize these patterns. 
 
 Behavioral patterns are patterns that focuses on the interactions between cooperating objects. The interactions between cooperating objects should be such that they are communicating while maintaining as loose coupling as possible. 
 
@@ -24,7 +24,7 @@ The loose coupling is the key to n-tier architectures.
 
 ## Creational Design Patterns
 
-Creational design patterns are design patterns that deal with object creation mechanisms.
+Creational design patterns are design patterns that deal with **object creation** mechanisms.
 
 The basic form of object creation could result in design problemsor added complexity to the design. Hard coding the actual instantiation is a pitfall and should be avoided if reuse and changeability are desired.
 
@@ -38,7 +38,7 @@ The basic form of object creation could result in design problemsor added comple
 
 ## Structural Design Patterns
 
-Design patterns that ease the design by identifying a simple way to realize relationships among entities (objects and classes). 
+Design patterns that ease the design by identifying a simple way to realize **relationships** among entities (objects and classes). 
 
 | Name                          | Description                                                                                                                                         |
 |-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
