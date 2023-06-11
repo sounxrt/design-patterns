@@ -1,7 +1,3 @@
-## Diagram
-
-![Decorator Pattern Diagram](/img/decorator.jpg)
-
 # Decorator
 
 The Decorator pattern lets you attach additional responsibilities and modify an instance functionality dynamically. 
