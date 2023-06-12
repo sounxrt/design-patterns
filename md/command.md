@@ -11,7 +11,7 @@ By passing the command object as a parameter we can, anywhereneeded extract info
 ## When to use?
 
 - When you want a action that can be represented in many ways. 
-- 
+- To create an undo/redo functionality.
 
 ## Benefits
 

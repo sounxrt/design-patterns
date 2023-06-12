@@ -10,9 +10,9 @@ We avoid coupling between the sender of a request and the possible receivers. We
 
 ## When to use?
 
- - When more than one object may handle a request, and the handler isn't known.
- - When you want to issue a request to one of several objects without specifying the receiver explicitly.
- - When the set of objects that can handle a request should be specified dynamically.
+- When more than one object may handle a request, and the handler isn't known.
+- When you want to issue a request to one of several objects without specifying the receiver explicitly.
+- When the set of objects that can handle a request should be specified dynamically.
 
 ## Benefits
 
