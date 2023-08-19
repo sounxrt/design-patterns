@@ -28,13 +28,13 @@ Creational design patterns are design patterns that deal with **object creation*
 
 The basic form of object creation could result in design problemsor added complexity to the design. Hard coding the actual instantiation is a pitfall and should be avoided if reuse and changeability are desired.
 
-| Name                      | Description                                                                                                                                                                        |
-|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Abstract Factory          | The pattern encapsulates a group of individual concrete factory classes (as opposed to concrete factory methods which are derived in subclasses) which share common interfaces.    |
-| [Builder](/md/builder.md) | The Builder pattern can be used to ease the construction of a complex object from simple objects.                                                                                  |
-| Factory                   | The Factory pattern provides a way to use an instance as a object factory.                                                                                                         |
-| Prototype                 | The Prototype pattern is basically the creation of new instances through cloning existing instances.                                                                               |
-| Singleton                 | The Singleton pattern provides the possibility to control the number of instances (mostly one) that are allowed to be made. We also receive a global point of access to it (them). |
+| Name                                    | Description                                                                                                                                                                        |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Abstract Factory                        | The pattern encapsulates a group of individual concrete factory classes (as opposed to concrete factory methods which are derived in subclasses) which share common interfaces.    |
+| [Builder](/md/builder.md)               | The Builder pattern can be used to ease the construction of a complex object from simple objects.                                                                                  |
+| [Factory Method](/md/factory-method.md) | The Factory pattern provides a way to use an instance as a object factory.                                                                                                         |
+| Prototype                               | The Prototype pattern is basically the creation of new instances through cloning existing instances.                                                                               |
+| Singleton                               | The Singleton pattern provides the possibility to control the number of instances (mostly one) that are allowed to be made. We also receive a global point of access to it (them). |
 
 ## Structural Design Patterns
 
