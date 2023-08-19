@@ -6,7 +6,7 @@ The factory can return an instance of one of several possible classes (in a subc
 
 ## Diagram
 
-![Factory Method Design Pattern Diagram](/img/factory-method.jpg)
+![Factory Method Design Pattern Diagram](/img/factory-method.svg)
 
 ## When to use?
 

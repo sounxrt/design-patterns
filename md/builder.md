@@ -8,7 +8,7 @@ Related patterns include Abstract Factory and Composite.
 
 ## Diagram
 
-![Builder Design Pattern Diagram](/img/builder.jpg)
+![Builder Design Pattern Diagram](/img/builder.svg)
 
 ## When to use?
 
